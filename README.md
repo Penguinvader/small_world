@@ -1,7 +1,7 @@
 Simple script to see which cards can be searched by banishing which cards in a deck using the Small World spell card.
 
 # Usage: 
-1. run script in terminal (python, requests module required)
+1. run script in terminal (python, requests module required (`pip install requests`))
 2. enter y if you want to search for connecting handtraps between 2 cards of your choice or n if you don't
 3. in the latter case, enter path of a deck in .ydk format (extension optional), if it's in the same directory as the script just enter the filename 
 4. format of result:
